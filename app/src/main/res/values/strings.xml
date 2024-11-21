@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeCalculator</string>
+    <string name="timeCalculator">Калькулятор времени</string>
+    <string name="sumBTN">+</string>
+    <string name="difBTN">-</string>
+    <string name="resultOperation">Результат</string>
+    <string name="exitProgram">Exit</string>
+    <string name="resetProgram">Reset</string>
+</resources>
